@@ -317,7 +317,7 @@ Pakiet `topicmodels` wprawdzie został już powyżej załadowany, ale gdyby rzec
 
 ``` R
 library(topicmodels)
-load("topic_model_k-120_no-names.RData")
+load("topic_model_k-120_no-NER.RData")
 ```
 Można wtedy zobaczyć, jakie 10 najważniejszych słów składa się na każdy słowozbiór:
 
@@ -398,7 +398,7 @@ A jak by się rozkłdał słowozbiór, powiedzmy, 9 w funkcji czasu? Weźmy wszy
 ``` R
 library(topicmodels)
 library(mgcv)
-load("topic_model_k-120_no-names.RData")
+load("topic_model_k-120_no-NER.RData")
 model_weights = posterior(topic_model)
 topic_words = model_weights$terms
 docs_topics = model_weights$topics

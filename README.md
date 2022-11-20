@@ -1,4 +1,4 @@
-# Slowozbiory “Tekstów Drugich”
+# Słowozbiory “Tekstów Drugich”
 
 Repozytorium zawiera dane wejściowe oraz opis eksperymentów do studium na temat modelowania tematycznego czasopisma “Teksty Drugie”:
 

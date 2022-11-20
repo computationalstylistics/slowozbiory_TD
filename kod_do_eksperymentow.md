@@ -229,7 +229,7 @@ topic_model = LDA(dtm_pruned, k = 120, method = "Gibbs", control = list(seed = 1
 
 Inne rozłożenie iteracji:
 
-``` {R eval = FALSE}
+``` R
 load("dtm_pruned_TFIDF.RData")
 
 topic_model = LDA(dtm_pruned, k = 120, method = "Gibbs", control = list(seed = 1234, burnin = 1000, thin = 100, iter = 1000, verbose = 1))
@@ -330,7 +330,7 @@ terms(topic_model, 10)
 Dostęp do wag poszczególnych słów w poszczególnych słowozbiorach jest nieco bardziej skomplikowany, ale można tę informację wydobyć przez sięgnięcie po funkcję `posterior`:
 
 
-``` {R}
+``` R
 model_weights = posterior(topic_model)
 topic_words = model_weights$terms
 docs_topics = model_weights$topics

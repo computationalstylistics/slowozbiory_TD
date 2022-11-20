@@ -11,8 +11,9 @@ Artykuł prezentuje analizę problematyki poruszanej na łamach “Tekstów Drug
 
 ## Dane
 
-W folderze ....... znajdują się wszystkie teksty z czasopisma obejmujące lata ......, w folderze ........ umieściliśmy te same teksty po lematyzacji. Dalsze foldery zawierają wygenerowane przez nas trzy modele tematyczne wraz z użytymi w nich stoplistami.
+Folder `DATA` zawiera dane wejściowe potrzebne do wytrenowania modelu tematycznego. W podfolderze `subset_lemmatized` znajdują się wszystkie teksty z czasopisma obejmujące lata 1990–2012, w wersji zlematyzowanej. Oprócz tego folder zawiera oryginalną tabelę frekwencji słów pozyskanych z surowych tekstów (plik `word_raw_frequencies.RData`), a także trzy wersje tabeli użyte w naszych trzech modelach A, B i C. Tabele te różnią się wyłącznie tym, że zostały z nich usunięte słowa ze stoplisty. Same stoplisty znaleźć można w folderze `STOPWORDS`, podczas gdy folder `MODELS` zawiera trzy końcowe modele tematyczne. W naszych eksperymentach korzystaliśmy wyłącznie z modelu `topic_model_k-120_no-NER.RData`.
 
 ## Kod
 
-Niniejszy dokument [link] zawiera opis eksperymentu wraz z wykonywalnym kodem.
+Dokument zapisany [tutaj](https://github.com/computationalstylistics/slowozbiory_TD/blob/main/kod_do_eksperymentow.md) zawiera opis eksperymentu wraz z wykonywalnym kodem.
+

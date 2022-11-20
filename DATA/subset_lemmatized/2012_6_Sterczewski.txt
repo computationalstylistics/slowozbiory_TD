@@ -1,0 +1,260 @@
+Piotr Sterczewski 
+czytać gra. 
+o proceduralny retoryka jako metoda analiza ideologiczny gra komputerowy 
+gra komputerowy1 jako tekst kultura stawiać przed gracz i badacz nowy, mało oczywisty wyzwanie. 
+choć gra wykorzystywać środek literatura, film i sztuka plastyczny, to inny, charakterystyczny dla on środek znacząco zmieniać sytuacja odbiorczy w porównanie z dawny dziedzina sztuka. 
+skoro gra być złożony system zmieniać się pod wpływ działanie użytkownik, to w jaki sposób tworzyć się tam znaczenie? 
+czy gra można „czytać”, a jeśli tak, to co różnić się taki lektura od lektura dzieło nieinteraktywny? 
+jaki specyficzny kompetencja odbiorczy (i badawczy zarazem) wymagać to medium? 
+wreszcie (co być główny temat ten tekst): jak można badać ideologia gra komputerowy? 
+kulturoznawczy badanie nad gra komputerowy (game studies), jak każdy dziedzina zajmować się nowy zjawisko, stanąć w pewien moment przed konieczność refleksja nad własny metodologia i zadanie opracowanie język opis odpowiedni do badany przedmiot. 
+podobnie jak to mieć miejsce z filmoznawstwo próbować uniezależnić się od literaturoznawstwo i teatrologia, game studies starać się rozpoznać odmienność nowy medium w stosunek do stary środek wyraz, a co za to iść – na nowo przemyśleć stosować kategoria teoretyczny. 
+w rok 90. 
+XX wiek i pierwszy rok XXI wiek w ramy game studies toczyć się zażarty debata między dwa stanowisko – tak zwany. „spór między narratologami a ludologami”2, czyli, w duży skrót, pomiędzy zwolennik badać tekstualność gra w oparcie o kategoria literaturoznawczy a propagator tworzyć nowy narzędzie teoretyczny, który pozwalałyby badać gra w on „growości”. 
+ten dyskusja być bardzo często relacjonować przez autor książka z dziedzina game studies3, tu natomiast nie mieć miejsce na dokładny on omówienie; naszkicować ten problematyka być jednak niezbędny w cel pokazać teoretyczny kontekst, w jaki wpisywać się koncepcja proceduralny retoryka. 
+nadzieja, który wiązać „narratolodzy”4 z gra komputerowy, dotyczyć przed wszystko ten medium jako nowy sposób opowiadanie. 
+Janet Murray, jeden z ważny przedstawicielka ten nurt, podkreślać, że „przedstawiać historia to podstawowy ludzki aktywność, który podejmować w każdy środek wyraz”5, zatem to właśnie potencjał narracyjny być w gra istotny, a z wzgląd na inkorporować środek stary medium, gra dawać „więcej cegła do budować opowieść niż oferować my jakikolwiek pojedynczy medium wcześnie”6. 
+teoretyk z ten drugi, „ludologicznej” opcja, jak przystać na buntownik walczyć o myślowy autonomia, bardzo ostro oceniać wpływ badanie „narratologicznych”. 
+Espen Aarseth, jeden z główny przedstawiciel ludologów i jeden z bardzo wpływowy postać game studies, pisać tak: sam liczba student wykształcony w tradycja badanie nad film i literatura sprawić, że prymitywny stosować teoria „narracja” utrzymać się i prawdopodobnie zdominować analiza gra na wiele rok. 
+tak długo, jak periodyk i promotor w tradycyjny studia narracyjny aprobować dysertacja i praca, który uznawać narracyjność gra za coś oczywisty […], dobry krytyczny badanie przytłoczyć niekompetencja.7 Aarseth być autor fundamentalny dla nurt ludologicznego i cały game studies książka Cybertext. 
+Perspectives on Ergodic Literature z 1997 rok, w który proponować pojęcie literatura ergodycznej – taki, który odbiorca być raczej użytkownik niż czytelnik, i w który wysiłek wymagać być do sam nawigacja poprzez tekst, inaczej niż w przypadek klasyczny dzieło literacki. 
+Aarseth badać sam mechaniczny struktura pewien grupa tekst, który to struktura dopuszczać użytkownik do wprowadzać w on zmiana. 
+badacz zaliczać do taki „cybertekstów” dzieło z pozór bardzo różny: starożytny chiński księga wróżebny i Ching, kaligram Apollinaire’a, sto tysiąc miliard wiersz Raymonda Queneau, gra w klasa Julia Cortazar, literatura hipertekstowy i gra komputerowy. 
+wszystek ten artefakt kulturowy łączyć właśnie specyficzny, otwarty na zmiana struktura, u Aarsetha nie być to jednak cecha przynależny jeden epoka, sposób zapis ani strategia narracyjny. 
+książka Cybertext okazać się jednak bardzo inspirować właśnie dla badacz nowy medium, przed wszystko literatura hipertekstowy i gra komputerowy. 
+o ile jednak hipertekst w standardowy on rozumieć jako tekst literacki o wiele możliwy ścieżek do wybór – mimo pokładać w on nadzieja – nigdy nie wyjść z nisza i nie stać się naprawdę istotny gatunek kultura, o tyle gra komputerowy przyciągać coraz duży uwaga badacz, krytyk i odbiorca. 
+za Aarsethem kolejny autor proponować model teoretyczny wskazywać na specyfika medium gra i konieczność formułować nowy język do zrozumieć nowy zjawisko. 
+za differentiam specificam nowy gatunek zawsze uznawać właśnie ow otwartość na zmiana z strona odbiorca-gracz; gra być dzieło, który zmieniać swój kształt lub przebieg w zależność od wkład użytkownik i który być za każdy raz (czas nieznacznie, a czas istotnie) inny dla różny osoba. 
+jak ujmować to Księga Jonasza Dovey i Helena Kennedy: „«tekst», jeśli w ogół mieć używać ten termin, stawać się złożony interakcja pomiędzy gracz a gra, określać miano rozgrywka (angielski. gameplay)”8. 
+w ów „spór naratologów z ludologami” to przed wszystko strona „ludologiczna” być w ofensywa. 
+zwolennik czytać gra jako mechanizm posuwać się wręcz do negować sensowność inny podejście interpretacyjny, a szczególnie badać warstwa estetyczny gra. 
+teoretyk identyfikować się z opcja ludologiczną często stosować określony strategia w cel uniknąć krytyka – dla poparcie swój też dobierać przykład gra jak bardzo abstrakcyjny, do który faktycznie trudno stosować kategoria zaczerpnąć z dziedzina oprzeć na interpretacja tekst. 
+Dovey i Kennedy nazywać taki zabieg „obrona Tetris” (od tytuł popularny gra logiczny-zręcznościowy) – wybór specyficzny przykład prowadzić według on do generalizacja i utrudniać zrozumienie bardzo złożyć gra9. 
+w odpowiedź na taki praktyka Janet Murray zaproponować kiedyś swój „narratologiczną” intepretację Tetrisa, który mieć przekonywać, że nawet abstrakcyjny gra dawać się przedstawić narracyjnie („każdy gra, elektroniczny czy nie, można odbierać jako symboliczny dramat”) oraz osadzić w kontekst społeczny – badaczka w dość ryzykowny sposób twierdzić, że gra „reprezentować nadmiernie przeciążyć życie Amerykanin w rok dziewięćdziesiąty – ciągły bombardować zadanie, który domagać się nasz uwaga, który musieć jakoś wpasować w nasz zapchać plan”10. 
+przywołać powyżej stanowisko to oczywiście tylko bardzo jaskrawy przykład wybrać z cały złożony dyskusja, ale świadczyć o on radykalność w szczytowy faza. 
+po etap formułować bardzo ostry sąd przez oba strona spór stopniowo jednak łagodnieć, a on omówić i podsumować często wskazywać na dorobek, który dzisiejszy game studies zawdzięczać oba strona debata. 
+w 2003 rok Gonzalo Frasca, jeden z uczestnik spór (zwolennik opcja ludologicznej), podsumować on artykuł o znaczący tytuł Ludolodzy też kochać opowiadanie – notatka na temat spór, który nigdy nie mieć miejsce11, gdzie przekonywać, że oba strona wzajemnie się zdemonizować, a cały spór być raczej pozorny, bo trudno w ogół znaleźć narratologów/narratywistów na tyli radykalny, żeby deprecjonować badanie mechanika w gra; z kolej ludolodzy nie negować zasadność badać narracja w medium elektroniczny. 
+artykuł Frasek być świadectwo to, że w game studies minąć już czas stawiać bardzo twardy opozycja między narracja a rozgrywka. 
+jak przekonywać Dovey i Kennedy, każdy radykalny metodologia odnosić do gra okazywać się niewystarczający, a istotny być adaptować istnieć podejście i formułować metodologiczny hybryda12. 
+jeden z ciekawy propozycja metodologiczny dotyczyć czytanie gra jako system interaktywny być proceduralny retoryka Iana Bogosta przedstawić w książka Persuasive Games. 
+The Expressive Power of Videogames. 
+ten koncepcja łączyć oba główny tendencja założycielski spór game studies: z jeden strona kłaść nacisk na badać mechanika gra i specyficzny możliwość przedstawieniowy interaktywny medium, a z drugi korzystać z dorobek literaturoznawstwo i pozwalać na przejść od analiza mechanika gra do on kontekst społeczny, kulturowy i polityczny. 
+unikać to sam ryzyko jednostronność wpisać w zdecydowany wybór opcja narratologicznej lub ludologicznej. 
+sam analiza tekstualny nie dawać narzędzie do zbadać środek perswazyjny wynikać z mechanika gra, natomiast analiza tylko mechanika i działanie gracz pomijaćby cały szeroki dyskursywny kontekst, w który on funkcjonować (jak na przykład. dyskurs ekologiczny w przypadek przywoływać poniżej gra Fate of the World). 
+Ian Bogost odwoływać się do proceduralność, czyli zdolność do przedstawiać proces za pomoc system reguła. 
+pojęcie proceduralność pojawić się w teoria nowy medium dzięki Janet Murray, który wymieniać on wśród cztery podstawowy cecha artefakt cyfrowy (pozostały być według on uczestnictwo, spacjalność i encyklopedyczność) i określać jako „definiować zdolność [komputer] do wykonywać (execute) seria zasada”13. 
+Bogost zwracać uwaga na to, że informatyczny rozumienie proceduralność mieć wiele wspólny z pojęcie procedura znany z życie społeczny (na przykład z biurokracja lub sądownictwo)14, a co za to iść, mieć szczególny potencjał do przedstawiać taki i podobny procedura15. 
+Bogost wskazywać na odmienność proceduralny reprezentacja od inny on rodzaj: abstrakcyjny proces – niech być on materialny jak mechanizm zegarek albo kulturowy jak przestępczość – móc być zrelacjonować poprzez reprezentacja. 
+jednak proceduralny reprezentacja przyjmować inny forma niż reprezentacja w pismo lub mowa. 
+proceduralny reprezentacja tłumaczyć proces za pomoc inny proces. […] być forma symboliczny ekspresja, który używać raczej proces niż język.16 propozycja teoretyczny Bogosta nie zakładać jednak czysto abstrakcyjny badać proces – system nieść z siebie także pewien przedstawienie obrazowy lub językowy, a proces dawać się również zrelacjonować w język. 
+na baza pojęcie proceduralność Bogost budować swój pojęcie proceduralny retoryka: „nazywać ten nowy forma proceduralny retoryka, sztuka perswazja poprzez reprezentacja i interakcja oprzeć na reguła (rule-based) zamiast poprzez słowo mówić, pismo, obraz lub ruchomy obraz”17. 
+Bogost używać pojęcie retoryka głównie w on bardzo popularny rozumienie jako sztuka perswazja (który nazywać – nie całkiem dokładnie – „model klasyczny”18), ale zaznaczać też świadomość szeroki znaczenie ten pojęcie – tu przed wszystko jako „efektywny wyrażać (expression)”. 
+chociaż badacz w swój książka Persuasive Games aplikować swój pomysł przed wszystko do badać gra, który swój perswazyjność i instytucjonalny uwikłać pokazywać wprost, dać się z powodzenie stosować to narzędzie także do produkcja, który swój perswazyjność (lub ogólnie: ideologiczność) starać się raczej ukryć niż wyeksponować. 
+Bogost broń konieczność wyróżnić proceduralny retoryka poprzez analogia do wizualny retoryka, dyscyplina dość dobrze już zadomowić w dyskurs akademicki: tak jak retoryk wizualność przekonywać, że werbalny i piśmienny retoryka nie oddawać sprawiedliwość unikalny właściwość wizualny ekspresja, tak ja przekonywać, że werbalny, piśmienny i wizualny retoryka nie oddawać sprawiedliwość unikalny właściwość ekspresja proceduralny.19 chociaż pojęcie proceduralny retoryka dawać się zastosować do wszyscy (także nieelektroniczny) zjawisko kulturowy oprzeć na proces i reguła, Bogost stwierdzać, że ciekawy pole on występować być gra komputerowy („artefakt informatyczny, który mieć kulturalny znaczenie jako artefakt informatyczny”20); ponadto zaznaczać, że ten potencjał ekspresyjny i perswazyjny mieć wszystek gra, niezależnie od on budżet czy też intencja twórca21. 
+środek ten znaczący ekspresja być nie tylko taki, jaki znać już z inny dziedzina kultura. 
+koncepcja proceduralny retoryka pozwalać na kompleksowy analiza ideologia gra powstały z splot on zabieg mechaniczny i warstwa estetyczno-treściowy oraz pokazać wzajemny związek (a także sprzeczność) między ten dwa warstwa. 
+ideologia rozumieć tu szeroko jako zestaw przekonania dotyczyć określony temat, zatem przyjmować, że ideologia warunkować powstać każdy konstrukcja semantyczny i zwykle być możliwy do opisać na podstawa ten konstrukcja za pomoc analiza lub krytyka ideologiczny. 
+jak pisać Mimi White: analiza ideologiczny być oprzeć na założenie, że artefakt kulturowy – literatura, film, telewizja i tak daleko – być wytwarzać w konkretny kontekst historyczny, przez konkretny grupa i dla konkretny grupa społeczny. 
+mieć on na cel zrozumieć kultura jako forma społeczny ekspresja. 
+ponieważ artefakt kulturowy być tworzyć w społecznie i historycznie specyficzny kontekst, ujmować być on jako wyrażać i promować wartość, przekonanie i idea w relacja do kontekst, w który być produkować, rozprowadzać i odbierać. 
+analiza ideologiczny mieć na cel zrozumienie, w jaki sposób tekst kultura wcielać i odgrywać określony zestaw wartość, przekonanie i idea.22 proceduralny retoryka dawać narzędzie do badać gra jako symulacja, a więc przedstawić proces za pomoc inny proces. 
+aby stworzyć symulacja, najpierw należeć opracować model wybrać wycinek rzeczywistość (albo może bezpieczny: wycinek empirycznie poznawalny świat). 
+z wzgląd na to, że rzeczywistość nie być w pełnia poznawalny i że symulacja nie móc uwzględnić wszystek czynnik działać na dać sytuacja, model zawsze być pewien uprościć rzeczywistość. 
+w model pewien czynnik być brać pod uwaga, inny wykluczać, a jeszcze inny zostawać poddać przybliżenie. 
+na potrzeba gra tworzyć się różny model występować w świat fizyczny zjawisko. 
+symulacja, do który dostęp mieć gracz-użytkownik, polegać na wykonywać czynność na ten model. 
+ten sposób reprezentacja oprzeć być zatem na podwójny zapośredniczyć – najpierw wybrać fragment empiryczny świat przybliżać być w model, a późno gracz-użytkownik wchodzić w interakcja z ten model (aktualizować także tylko wybrać on fragment)23. 
+w symulacja ważny być nie tyle on dokładność rozumieć jako maksymalny zgodność z empiryczny rzeczywistość, ile on użyteczność oraz – kiedy symulacja pozostawać na służba fikcja – wewnątrztekstowa wiarygodność. 
+Bogost proponować pojęcie „proceduralny piśmienność” (procedural literacy) na określić umiejętność odczytywać proces jako abstrakcyjny system proceduralny i jednocześnie konstrukcja znaczeniowy – być to według on umiejętność rekonfigurowania pojęcie i zasada w cel zrozumieć proces (nie tylko komputerowy), a taki rozumienie powinien prowadzić do zadawać pytanie i krytykować konkretny reprezentacja konkretny proces24. 
+umiejętność czytać symulacja być kluczowy w analiza ideologiczny gra. 
+badacz powinien umieć ocenić, w jaki sposób zaprojektować być model dany proces w gra (przed wszystko: co i w jaki stopień zostać w on uprościć); w jaki pozycja umieszczać on gracz, jaki możliwość on dawać, a jaki odbierać; na co polegać wpływ gracz na świat gra; za jaki działanie gracz być nagradzać, a za jaki karać; w jaki sposób komunikować się gracz skuteczność lub nieskuteczność on działanie. 
+chociaż właściwie do każdy gra można podejść z różny perspektywa, co przynieść różny interpretacja (podobnie, jak mieć ten miejsce w przypadek literatura czy film), analiza proceduralny wydawać się być skuteczny narzędzie przy rozważać ideologiczny warstwa gra i pozwalać zbadać kwestia, który wymykałyby się analiza narratologicznej lub ortodoksyjny analiza ludologicznej. 
+mechanika niekiedy wchodzić w konflikt z warstwa tekstualny gra, ale badanie przy użycie sam narzędzie literaturoznawczy nie być w stan zdiagnozować taki niespójność; z kolej analiza sam rozgrywka (jak postulować ludolodzy) mieć tendencja do pomijać cały dyskursywny kontekst warstwa estetyczny gra (jak w przypadek zlekceważyć dyskurs kobiecość i cielesność przy analizować postać Lara Croft w niesławny wypowiedź Aarsetha25). 
+zdawać się przy to, że dobór określony metodologia powinien być jednak częściowo zależny od sam gra. 
+w daleki ciąg ukazywać się tytuł, wobec który najwięcej owocny interpretacja przynieść narzędzie literaturoznawczy pochodzenie26. 
+stąd jednak jeszcze daleko do uznać uniwersalność ten narzędzie – błędny być na przykład diagnoza Jerzy Zygmunt Szeja, że „wszystek gra komputerowy cechować stały wzrost znaczenie fabuła”27. 
+chociaż móc się tak wydawać pod koniec rok 90., aktualny dominujący tendencja rozwój medium być zupełnie inny28, a co za to iść – maleć aplikowalność metoda narratologicznych w badać gra. 
+żeby pokazać przydatność koncepcja proceduralny retoryka w czytać gra, a szczególnie w on analiza ideologiczny, przedstawić taki analiza na przykład Fate of the World, strategiczno-ekonomiczny serious game o zmiana klimat. 
+Serious games to taki gra, który otworzyć zakładać cel inny poza sam przyjemność rozgrywka (na przykład. perswazja, edukacja, szkolenie, badanie naukowy) – co jednocześnie nie oznaczać, że nie móc dostarczać rozrywka29. 
+David Michael i Sande Chen uprzedzać wątpliwość, który móc budzić podporządkować rozrywkowy medium konkretny cel i bronić medium gra jako jeden z gałąź sztuka: niektóry móc twierdzić, że taki rodzaj ukryć (ulterior) cel umniejszać gra, pod wzgląd artystyczny lub inny, podobnie jak niektóry twierdzić, że taki motyw umniejszać książka lub film. 
+jednak jako forma sztuka wszystek gra […] mieć coś do powiedzieć.30 
+autor zwracać też uwaga na fakt, że określenie „serious” nie oznaczać koniecznie poważny ton sam gra, odnosić się przed wszystko do prymarny cel on powstać, ale nie warunkować on treść1731. 
+Michael i Chen w swój książka-poradnik dla twórca serious games wymieniać w kolejny rozdział następować pole zastosowanie ten typ gra: militarny, rządowy, edukacyjny, korporacyjny, zdrowotny oraz (potraktować łączeń) polityczny, religijny i artystyczny32. 
+Fate of the World: Tipping Point, strategiczno-ekonomiczny gra studio Red Redemption wydać w 2011 rok, nieść z siebie wyraźny cel edukacyjny, ale jednocześnie być projekt komercyjny, wydać w normalny warunki rynkowy. 
+on temat być światowy problem ekologiczny i społeczny, a przed wszystko globalny zmiana klimat i on konsekwencja. 
+akcja gra zaczynać się w 2020 rok, kiedy po seria katastrofa ekologiczny naród świat postanawiać założyć globalny organizacja (GEO, Global Environmental Organization) o bardzo szeroki kompetencja, który zadanie mieć być zapobieżec radykalny zmiana klimat i jednocześnie dbać o warunki życie i poziom gospodarczy poszczególny region. 
+gracz zostawać umieścić w rola szef ten organizacja. 
+gra toczyć się w system turowy (jeden tura, możliwy do rozegrać zwykle w od kilka do kilkanaście minuta, reprezentować pięć rok). 
+mechanika oprzeć być na system tak zwany. karta polityka (polica cards) – gracz w każdy tura móc wybrać konkretny działanie lub kilka działanie, który zostać wprowadzić w życie w następny tura w każdy z dwanaście wydzielić region świat. 
+karta podzielić być na kilka kategoria i dotyczyć rozmaity działanie, który móc podejmować organizacja: wprowadzać program rozwojowy i program ochrona środowisko, ustalać polityka energetyczny, wprowadzać określony rozwiązanie prawny (jak na przykład. program oszczędzać energia, udział region w system handel emisja co2, polityka jeden dziecko, podatek od operacja finansowy i tym podobne.), zapewniać bezpieczeństwo, fundować badanie naukowy w konkretny dziedzina i tym podobne. 
+każdy z karta mieć nazwa, koszt wprowadzenie i czas działać (w niektóry przypadek czas nie być określić, bo zależeć on od inny czynnik związany z dany region). 
+co ważny, kart informować o swój efekt na gra tylko poprzez ogólny opis, a nie przez konkretny dana liczbowy. 
+gracz nie mieć zatem całkowity pewność co do efekt swój działanie, nie zawsze być też informować o uboczny skutek wprowadzać konkretny polityka, a każdy z on mieć zwykle wpływ na więcej niż tylko jeden z parametr gra. 
+dla przykład – karta „Switch transport to Electricity” (zmienić transport na elektryczny) zmniejszyć emisja co2 wytwarzać przez środek transport, ale móc doprowadzić do deficyt energia elektryczny (co mieć negatywny wpływ na gospodarka), a także móc sumarycznie zwiększyć emisja, jeśli energia elektryczny, na który popyt zostać teraz zwiększyć, pochodzić głównie z spalać paliwo kopalny. 
+taki zabieg wprowadzić pewien nieprzejrzystość w mechanika gra być część proceduralny retoryka Fate of the World – pokazywać, że każdy decyzja i każdy zjawisko pozostawać w skomplikowany siatka zależność z inny, a konkretny skutek podejmować projekt być trudny do przewidzieć. 
+żeby poznać wpływ zagrywać karta na wydarzenie w gra, gracz musieć uważnie śledzić zaimplementować w on skomplikowany system statystyka. 
+wykres pokazywać zmiana dany parametr w czas pozwalać wyświetlić także historia zagrywać w ten czas karta. 
+pomagać to wyciągnąć wniosek, ale wykres pokazywać korelacja, a niekoniecznie związek przyczynowo-skutkowy – taki należeć już wyindukować samodzielnie, obserwować dynamika zmiana w kolejny tura i w różny region. 
+być to pewny wyłom wobec standardowy konwencja gra komputerowy. 
+jak twierdzić Tomasz Majkowski, przyjemność gracz polegać przed wszystko na potwierdzać swój interpretacja rozumieć jako dobieranie skuteczny działanie w odpowiedź na wymaganie gra. 
+według Majkowski, mechanizm potwierdzenie – w odróżnienie od interpretacja tekst literacki – być natychmiastowy: „hipoteza zostawać natychmiast zweryfikować, i to w sposób pozostawiać wątpliwość”33. 
+ten diagnoza nie dawać się jednak zastosować do wszystek gra – i jeden z ten wyjątek być właśnie Fate of the World34. 
+oprócz system statystyk gra dawać gracz jeszcze inny rodzaj feedback. 
+należeć do on między inny wiadomość (news), który informować o aktualny problem konkretny region, ale także – w niebezpośredni sposób – o skutek polityk z zagrać w poprzedni tur karta. 
+oprócz to, na początek każdy tura wyświetlać być ważny statystyka globalny – przed wszystko termometr pokazywać wzrost średni globalny temperatura w stosunek do czas przedprzemysłowych, wzrost od ostatni tura i prognoza wzrost. 
+dana o temperatura być kluczowy informacja w gra, bo cel w większość scenariusz być zahamować globalny ocieplenie. 
+jeśli wskaźnik na termometr pokazać całkowity wzrost temperatura o 3 stopień Celsjusz, taki scenariusz kończyć się porażka – zatem według wyraźny sugestia twórca gra utrzymać temperatura poniżej ten poziom być warunek przetrwać ziemia taki, jaki znać. 
+statystyka globalny informować również na początek każdy tura o liczba ofiara związany z zmiana klimat (sposób liczyć nie być tutaj jasny, ale prawdopodobnie uwzględniać się tu zmarły w wynik głód, susz, powódź i inny kataklizm związany z pogoda). 
+oprócz to, gracz informować być o ważny globalny wydarzenie – odkrycie naukowy, niepokoje i konflikt zbrojny, zmiana poparcie dla GEO, istotny zagrożenie ekologiczny. 
+jeden rodzaj wydarzenie być szczególnie wyróżniać – kiedy wyginąć jeden z rozpoznawalny, charakterystyczny dla region gatunek zwierzę (na przykład. nosorożec biały lub niedźwiedź polarny), na ekran pojawiać się rysunek zwierzę, przyczyna wyginąć gatunek i on związek z zmiana klimat. 
+można powiedzieć, że informacja o wymarcie gatunek być tu przedstawiać w dużo bardzo obrazowy i apelować do emocja sposób niż informacja o kolejny milion ofiara w człowiek. 
+bardzo trudny być w gra balansować między hamować zmiana klimat, utrzymywać zadowalać poziom warunki humanitarny i zachowywać poparcie dla organizacja. 
+Fate of the World składać się z kilka scenariusz o rosnąć trudność, a zrozumienie symulacyjny zależność i osiągnąć wprawa pozwalać na wygrywać wymagać przynajmniej kilkanaście godzina rozgrywka. 
+podstawowy zabieg proceduralny retoryka Fate of the World być sam on poziom trudność. 
+gra dotyczyć trudny do rozwiązać globalny problem, a według niektóry – wręcz duży wyzwanie, przed jaki stać ludzkość. 
+gdyby zwycięstwo w elektroniczny symulacja ten problem być zbyt łatwy, mócby to skłaniać gracz do bagatelizować zagrożenie związany z zmiana klimat w świat fizyczny, a to stałoby w sprzeczność z jasno deklarować intencja twórca gra i on edukacyjny zamiar35. 
+gra wymagać od gracz balansować pomiędzy zmniejszać emisja, łagodzić skutek katastrofa oraz dbać o poparcie, bezpieczeństwo i poziom życie w region; wymagać też zarządzać ograniczyć zasób. 
+ponadto, gracz musieć nauczyć się rozumieć zależność pomiędzy różny zjawisko, brać pod uwaga, że każdy on działanie być mieć prawdopodobnie więcej niż tylko jeden, spodziewany efekt i mieć świadomość, że w walka z zmiana klimat nie mieć łatwy, uniwersalny środek – każdy rozwiązanie mieć swój wysoki cena albo zestaw skutek uboczny. 
+skomplikowanie zaimplementować w on symulacja mieć przekonywać o złożoność współczesny globalny problem. 
+przez analogia do doświadczenie rozgrywka Fate of the World mieć uświadamiać, że globalny ocieplenie być problem trudny do rozwiązać nawet w (bardzo mało przecież prawdopodobny w rzeczywistość) przypadek powołać specjalnie do ten cel ponadnarodowy organizacja o duży prerogatywa i pokaźny budżet. 
+w wątek pod tytuł „rzecz, który ten gra ja nauczyć”36 w serwis Steam znaleźć można wiele głos świadczyć o to, że gra faktycznie zmuszać do refleksja nad globalny problem i trudność on rozwiązać. 
+ten typ komentarz dowodzić, że gracz dość powszechnie rozpoznawać (i przyjmować) edukacyjno-perswazyjny charakter Fate of the World, a także on potencjał krytyczny wobec współczesny polityka i społeczeństwo. 
+jak widać, poziom trudność być istotny element wewnętrzny argumentacja gra. 
+dzieło studio Red Redemption korzystać z środek, który Ian Bogost nazywać „retoryka porażka”: jeśli proceduralny retoryka działać poprzez operacjonalizowanie twierdzenie na temat to, jak rzecz działać, to gra wideo móc także formułować twierdzenie na temat to, jak rzecz nie działać. […] 
+chciećbybyć zasugerować, że taki gra funkcjonować według częsty proceduralny retoryka, retoryka porażka.37 w Fate of the World przegrywać i trudność mieć pobudzić do myśleć w dwojaki sens – uświadomić powaga sytuacja i skłonić do szukać rozwiązanie. 
+jak pisać Shuen-shing Lee omawiać gra, który używać porażka jako środek znaczeniowy: „ten gra mieć przemienić gracz z wewnątrzgrowego przegrać w pozagrowego myśliciel (off-gamingthinker)”38. 
+oczywiście, wpisać w rozgrywka możliwość porażka być właściwie nieodłączny element ten medium i pełnić także inny funkcja. 
+jak twierdzić Jane McGonigal, w dobrze zaprojektować gra istnieć „pozytywny feedback porażka”, dzięki który niepowodzenie nie rozczarowywać, ale podtrzymywać zainteresowanie i poczucie kontrola nad wynik gra39; istotny być też zapewnić gracz o możliwość sukces: uzasadniony optymizm być wpisać w sam ten medium. 
+z sam projekt wynikać, że każdy zagadka w gra komputerowy mieć być rozwiązywalny, każdy misja możliwy do ukończyć i każdy poziom do przejść dla gracz, który mieć wystarczająco dużo czas i motywacja.40 mainstreamowy gra być próbować wzbudzić u gracz przed wszystko ów „uzasadniony optymizm”, jednak serious game o globalny zagrożenie siła rzecz musieć ten optymizm ograniczać, jeśli on aspekt krytyczny i perswazyjny mieć być skuteczny. 
+jednocześnie jednak trzeba podkreślić, że Fate of the World to rozbudować, czasochłonny gra, a żeby przytrzymać gracz na długo, trzeba zostawić on możliwość sukces. 
+z ten powód grać studia Red Redemption nie stosować retoryka porażka tak radykalny, jak niektóry inny, krótki serious games o tematyka społeczny-polityczny. 
+Fate of the World poprzez swój proceduralny retoryka stawiać także określony teza na temat poszczególny działanie, który można podejmować w cel zahamować globalny ocieplenie i poprawić sytuacja na świat. 
+poszczególny polityka wprowadzać przez gracz okazywać się skuteczny lub nie; to gracz sam musieć metoda próba i błąd dojść do wniosek na ten temat, ale po przeprowadzić kilka taki rozumowanie być preferować niektóry rozwiązanie, a pomijać inny. 
+i tak na przykład inwestować w energia jądrowy wydawać się na początek bardzo dobry rozwiązanie, bo być on tani, czysty i efektywny w porównanie z inny. 
+jednak uran także być paliwo kopalny i on złoże móc się wyczerpać, więc nadmiernie optymistyczny inwestycja w energia jądrowy móc skończyć się w któryś moment kryzys energetyczny i finansowy. 
+być jeszcze jeden zagrożenie – region, który korzystać z ten typ energia, być jednocześnie zaopatrzyć w broń nuklearny i móc użyć on wobec inny region, jeśli sytuacja polityczny stać się tam bardzo niestabilny41. 
+grać studia Red Redemption doczekać się też krytyka z wzgląd na swój uwarunkowanie ideologiczny, zarówno z strona oficjalny medium, jak i sam gracz. 
+mimo że argument krytyk nie zawsze być sensowny, sam gest podejrzliwość wobec ideologia gra wydawać się zasadny, szczególnie jeśli dotyczyć on tak kontrowersyjny problem, jak antropogeniczny globalny ocieplenie. 
+co ciekawy, ideologiczny konstrukcja Fate of the World wydawać się przewidywać i uprzedzać pewne skierować wobec siebie pytanie i krytyka. 
+robić to poprzez dwa powiązany z siebie zabieg – wariantywność scenariusz i ironia. 
+gra mieć kilka scenariusz, który być zmodyfikować względem podstawowy („dotrwać do rok 2200 przy globalny ocieplenie poniżej 3 stopień”). 
+modyfikacja być zwykle po prosty łatwy wersja i mieć służyć jako przygotowanie przed właściwy wyzwanie, ale ten niski poziom trudność zostawać też wykorzystać w cel perswazyjny. 
+mieć tu na przykład scenariusz „Oil Fix Ita” (ropa wszystko naprawić) z jawnie ironiczny opis: „naprawiać klimat i radzić siebie z deficyt zasób wyglądać na zbyt dużo ciężki praca. 
+może po prosty być ciągle wiercić i użyć ekonomia oprzeć na ropa, żeby spłacić środek chronić przed zmiana klimat? 
+co móc pójść nie tak?”. 
+w ten scenariusz cel być osiągnąć wyznaczyć wartość wskaźnik HDI (jakość życie i dobrobyt) i utrzymanie produkcja ropa na wyznaczyć poziom. 
+w scenariusz „Cornucopia” (róg obfitość) zasoby paliwo kopalny się nie wyczerpywać (fragment opis: „nie wierzyć panikarz; ludzkość zawsze znaleźć sposób, żeby zdobyć więcej paliwo kopalny”). 
+z kolej w misja „Denial” (zaprzeczenie) ocieplenie klimat w ogół nie występować, można się zatem skupić wyłącznie na budować dobrobyt. 
+ten tryb rozgrywka zdawać się być komunikat do sceptyk wołać: „nie wierzyć my? dobrze, zrobić po wasz i zobaczyć, co się stać”. 
+każdy z ten scenariusz wykorzystywać jakiś wątek pojawiać się w krytyka dominujący teoria związany z zmiana klimat. 
+i każdy z ten uprościć względem standardowy scenariusz i tak okazywać się nadspodziewanie trudny. 
+dziać się tak dzięki sprytny zabieg twórca gra, przed wszystko dzięki dokładać dodatkowy warunki zwycięstwo. 
+tak na przykład w scenariusz „Oil Fix Ita” niejako poddawać się sprawdzić założyć, że ekonomia oprzeć na ropa móc zapewnić światowy dobrobyt. 
+wspomnieć wysoko warunek utrzymać wskaźnik HDI na odpowiedni poziom czynić rozgrywka bardzo trudny – wyjściowy poziom dobrobyt w region rozwijać się być dużo niski, a wydźwignąć ekonomia i warunki humanitarny w ten miejsce w wyznaczyć czas wymagać ogromny i dobrze rozplanować nakład siła. 
+w scenariusz „Denial” trzeba skupić się na ciągły i uważny rozwój ekonomia (trudność być tu przed wszystko zrównoważenie tempo rozwój różny region). 
+z kolej zbytnie zawierzyć ułatwić z scenariusz „Cornucopia” móc mieć katastrofalny skutek – ryzyko problem finansowy być mały, ale jeśli gracz nie podjąć szybko krok w cel rozwijać czysty technologia, to nie poradzić siebie na czas z zahamować globalny ocieplenie. 
+ideologiczny przesłanie ten alternatywny scenariusz iść więc w para z ogólny przesłanie gra – w rozwiązywać globalny problem nie mieć łatwy metoda, a nadmierny uproszczenie zwodzić na manowiec. 
+nawiązywać do pojęcie proceduralny retoryka, nazwaćbybyć ten typ zabieg „proceduralny ironia” – zachodzić on wtedy, kiedy dany działać w gra przynosić odwrotny skutek do ten, jaki spodziewać się gracz (a oczekiwanie ten oprzeć być na eksplicytny opis ten działanie albo kontekst, w jaki być umieścić). 
+Fate of the World sięgać po ten środek jeszcze kilka raz. 
+jeden z przykład być karta technologia „Coldfusion” (zimny fuzja). 
+opis karta brzmieć: „Niskoenergetyczne reaktor nuklearny móc zmieść wszystek światowy zmartwienie związany z energia. 
+poważnie w nie zainwestować”. 
+karta nie przynosić jednak absolutnie żaden efekt – gracz zostawać zatem ukarać za naiwny uwierzyć w możliwość szybki i tani wynaleźć technologia, który raz na zawsze rozwiązać światowy problem (a także za brak podejrzliwość wobec wyjątkowo nieneutralny opis karta, który odbiegać od standardowy styl pozostały opis w gra). 
+podobnie działać (a raczej nie działać) karta „Prayer” (modlitwa) – dostępny do użyć za darmo, opisać w gra lapidarnie zdanie: „wołać o cud”. 
+jak podawać encyklopedia tworzyć przez fan gra, on działanie być następujący: „w każdy tura, w który agent GEO skupiać region na modlitwa, być 0,00001% szansa, że 1 184 680 ton emisja cudownie zniknąć z atmosfera”42. 
+za posługiwać się proceduralny ironia można też uznać karta związany z program kosmiczny: być drogi, czasochłonny, nieść z siebie duży ryzyko porażka i nie przynosić żaden lub prawie żaden korzyść. 
+jedyny istotny wyjątek być wymagać duży zaawansowanie technologiczny, mnóstwo czas i środek finansowy karta „Star arka” (gwiezdny arka), który uruchamiać sterować sztuczny inteligencja statek kosmiczny z zamrozić ludzki embrion mieć za cel założyć nowy ludzki kolonia w kosmos. 
+co ciekawy, wprowadzić ten karta w życie automatycznie kończyć gra zwycięstwo niezależnie od sytuacja na ziemia. 
+na pierwszy rzut oko wydawać się to zabieg podważać główny przesłanie gra, który przecież podkreślać potrzeba ogólnoludzki wysiłek i podjąć odpowiedzialność za środowisko cały planeta. 
+można jednak odczytywać karta „Space arka” jako kolejny przykład proceduralny ironia, ten raz (nietypowo) operować wygrana, a nie porażka jako środek perswazyjny. 
+jeśli ostateczny sposób na uratować ludzkość (tytułowy „los świat”) być rozwiązać ród z science fiction, ucieczka i zostawić ziemia wraz z większość on ludność na pastwa los, powinien to zmusić gracz do refleksja nad to, w jak zły sytuacja Ziemia znajdować się już w ten chwila i za jaki cena dokonywać się to „zwycięstwo”. 
+przy okazja wariantywność scenariusz trzeba też wspomnieć o jeden z on, dość zaskakujący – o „doktor. 
+Apocalypse” (doktor apokalipsa), gdzie cały logika rozgrywka być odwrócić – zadanie gracz być maksymalny podgrzać ziemia. 
+znowu – mócby się wydawać, że umożliwić gracz przyjąć rola cyniczny geniusz zło podkopywać główny, nawoływać do odpowiedzialność perswazyjny przekaz Fate of the World. 
+studio Red Redemption w ten sposób przejmować i kanalizować określony praktyka grać, częsty w przypadek gra symulacyjny czy szeroko: gra z otworzyć środowisko. 
+gracz lubić testować możliwość świat, w który pozwolić on działać. 
+często wykonywać on czynność pozostawać niejako wbrew lub obok główny wizja twórca. 
+może to być chwila odskocznia od główny wątek, zabawa w zniszczenie i przemoc w środowisko normalnie nastawić na budować, albo odwrotnie – konstruktywny działać w gra nastawić na walka. 
+niekiedy ten typ działanie pozostawać wbrew „oficjalny” projekt gra, ale czas zdarzać się, że ten typ destruktywny działanie być przewidzieć przez twórca i udostępnić w normalny interfejs – tak być choćby w przypadek si City, w który na gotowy miasto można zesłać wybrany katastrofa i obserwować, jak stopniowo ulegać zniszczenie przygotować wcześnie miejski organizm. 
+twórca gra być skłonny umożliwiać ten typ zabawa, bo wzmacniać on u gracz poczucie wpływ na świat gra. 
+jednocześnie wydzielić przestrzeń, w który dozwolić być przekroczyć normalny zasada, albo wręcz zaprojektować gotowy pula ten przekroczenie, przynajmniej częściowo zmniejszać u gracz chęć dokonywać taki praktyka w „normalny” przestrzeń gra i umacniać on główny ideologia. 
+w pewien sens taki być właśnie logika karnawał – odświętny odwrócenie służyć tam ostatecznie potwierdzać codzienny, oficjalny porządek. 
+taki neutralizować lub przejmować wywrotowy działanie gracz wydawać się szczególnie ważny w przypadek serious games, który kłaść nacisk na swój związek z rzeczywistość, zatem on konstrukcja musieć być wyjątkowo szczelny pod wzgląd ideologiczny. 
+dlatego scenariusz „doktor. 
+Apocalypse” wydawać ja się istotny element strategia perswazyjny Fate of the World, a nie ideologiczny niekonsekwencja. 
+jednak mimo cały skomplikować model symulacja, perswazyjny podkreślać realistyczność, umiejętny przejmować praktyka wywrotowy, wariantywność scenariusz oraz proceduralny ironia, Fate of the World nie być całkowicie szczelny, odporny na krytyka konstrukcja ideologiczny. 
+gracz wypowiadać się na forum internetowy poświęcić gra wykazywać się na tyle duży proceduralny piśmienność, że być w stan wyłapać wiele niekonsekwencja, pominąć, nieoczywisty i arbitralny założenie i niezgodność mechanika gra z on zamierzyć wydźwięk ideologiczny. 
+w ten sam wątek, który przywoływaćbyć wcześnie przy okazja wypowiedź świadczyć o afirmatywny przyjąć perswazyjny przesłanie gra („co ten gra ja nauczyć”), znajdować się też bardzo krytyczny, sarkastyczny i wywrotowy odpowiedź. 
+gracz zwracać uwaga na różny problem – od raczej mało znaczyć pominąć w symulacja poprzez faktograficzny nieścisłość aż pompować bardzo zasadniczy krytyka on ideologiczny wydźwięk (jak w przypadek zwracać uwaga na fakt, że doprowadzać do masowy śmierć móc się opłacić jako taktyk do osiągnąć wyznaczyć przez mechanika gra cel). 
+to, że badać wypowiedź i działanie gracz okazywać się tak bardzo przydatny w analiza ideologiczny gra, świadczyć o to, jak bardzo sytuacja komunikacyjny w dzieło interaktywny być różny od ten w dzieło nieinteraktywny. 
+określony światopogląd, który przedstawiać grać jako system, być łatwy do zinternalizować przez gracz, bo działać zgodnie z wewnętrzny logika gra być w konkretny sposób nagradzać. 
+z drugi strona, złożyć system interaktywny być mało odporny na subwersywny działanie gracz przewidzieć przez on twórca. 
+warto przy to pamiętać, że żaden gra nie dawać gracz nieograniczony swoboda, a bywać, że on do określony rzecz zmuszać; tak samo istotny być analiza narzucać on ograniczenie, jak i przydzielać prawo. 
+według niektóry badacz – jak na przykład Joosta Raessensa43 – ten ostatni kwestia w kontekst gra dać się dobrze opisać za pomoc Žižkowskiego pojęcie interpasywności, który być niejako drugi strona pojęcie interaktywność. 
+sam Žižek twierdzić, że wbrew powszechny wychwalać demokratyczny potencjał nowy medium zachęcać do (inter)aktywność, podmiot nie zawsze być tam w aktywny pozycja44. 
+o interpasywności pisać słoweński badacz tak: pojęcie interpasywności – [opisywać] T niesamowity (uncanny) sytuacja, w który ktoś być aktywny, jednocześnie transponować na inny nieznośny pasywność swój być (Being) – dostarczać klucz, albo przynajmniej jeden z klucz, do artystyczny potencjał nowy medium cyfrowy.45 Žižek rozjaśniać ten pojęcie na przykład tamagotchi, japoński elektroniczny zabawka z wirtualny zwierzę, który trzeba się regularnie opiekować i który sam sygnalizować swój potrzeba, zmuszać gracz do konkretny reakcja. 
+Interpasywność zdawać się być dobry narzędzie do zauważyć ten moment w praktyka grać, w który reguła oraz system nagroda i kara skłaniać czy wręcz zmuszać gracz do konkretny aktywność – taki, który nie wynikać z on zupełnie świadomy, autonomiczny decyzja. 
+jak pisać Raessens: utrzymywać, że gracz być u władza (jak teoretyk często robić), móc ukryć z pole widzenie specyficzny symboliczny porządek, wieś który gracz zostawać wpisać podczas rozgrywka.46 Žižek podkreślać jednak obecny tutaj świadomy gest wyparcie, dobrowolny zanurzenie: „wiedzieć bardzo dobrze, że to tylko nieożywiony przedmiot, ale pomimo to zachowywać się tak, jakbym wierzyć, że być to żywy stworzenie”47. 
+Raessens komentować to i aplikować do dziedzina serious games: „ten moment zdystansować oznaczać, że móc podążać za rozkaz inny i jednocześnie być z on w krytyczny, refleksyjny relacja”48. 
+z analiza Žižka i Raessensa można wyciągnąć dwa istotny wniosek: po pierwszy, sposób pozycjonować gracz przez gra i zakres czynność, do jaki on zmuszać, być ważny element badanie gra jako struktura znaczeniowy; po drugi, zanurzyć w gra i poddać się logika on zasada nie zawieszać u gracz całkowicie krytyczny dystans wobec on i własny w on pozycja. 
+wiele nowy zjawisko w dziedzina gra komputerowy świadczyć o to, że interaktywny medium służyć przed wszystko rozrywka mieć niemały potencjał ekspresyjny i środek perswazyjny niedostępny dzieło nieinteraktywny. 
+gra móc wpływać na światopogląd swój odbiorca, umacniać lub kwestionować stereotyp, podtrzymywać lub podawać w wątpliwość określić dyskurs, podejmować namysł nad własny konwencja. 
+rozgrywka umacniać poczucie uczestnictwo, być działanie dokonywać na proces (symulacja proces), zmuszać do interpretacja ten proces, i dawać możliwość on – również krytyczny – przemyślenie. 
+wyzwanie dla badacz gra być właśnie analizować sposób reprezentacja ten proces, ideologia, który ten reprezentacja wspierać i miejsce odbiorca-gracz w ten system. 
+University Piotr Sterczewski Jagiellonian University (Kraków) 
+Reading the game The article deals with the methodologies of game studies concerning the ideological aspect of computer games. 
+Having briefly discussed the fundamental for the field of game studies the siebie-called “argument between the narratologists and the ludologists” the author moves on to describing the concept of the procedural rhetoric of Ian Bogost, which serves to investigate the semantic implications of the processes of representation in computer games. 
+a sampel analysis from the pointa of view of the procedural rhetoric IS being offered on the example of the strategic and economic game Fate of the World . 
+1 wiele badacz używać termin „gra wideo” (videogames), aby nie sugerować związek wyłącznie z komputer osobisty, ale uwzględniać także gra na konsola, automat do gra, urządzenie mobilny i tym podobne. 
+ja być jednak raczej używać zadomowić w język polski termin „gra komputerowy” (computer games), zakładać, że mieć na myśl każdy gra, w który grać się przy użyć urządzenie elektroniczny. 
+określenie „gra wideo” także wydawać ja się potencjalnie wykluczać, bo sugerować i projektować nierozerwalny związek z wzrok i wizualność, a ten wcale nie musieć być warunek konieczny w medium gra komputerowy. 
+kiedy jednak w tekst badacz cytować w poniższy tekst pojawić się sformułowanie „grać wideo”, należeć on rozumieć synonimicznie z mój użycie termin „gra komputerowy”. 2 nazwa „ludologia” (ludology, od łaciński ludus – zabawa, gra) używać się często synonimicznie wobec game studies. 
+tutaj na ogólny określenie dziedzina być jednak używać właśnie nazwa game studies, bardzo generalny i mało nacechować związek z określony szkoła metodologiczny. 3 zobacz. na przykład. 
+J. Stasieńko Alien versus. 
+Predator? 
+gra komputerowy a badanie literacki, wydawnictwo naukowy dolnośląski szkoła wysoki edukacja TWP, Wrocław 2005; D. Urbańska Homoplayers. 
+strategia odbiór gra komputerowy, wydawnictwo akademicki i profesjonalny, Warszawa 2009; J. Dovey, H. Kennedy kultura gra komputerowy, przeł. 
+T. Macios, A. Oksiuta, wydawnictwo UJ, Kraków 2011. 4 to być określenie używać głównie przez przeciwnik podejście łączyć gra z literaturoznawstwo. 
+dopiero po jakiś czas zacząć się pojawiać głos, żeby badacz, który budować teoria medium interaktywny na podstawa teoria narracyjny i literacki nazywać raczej „narratywistą” niż „narratologiem” – w odróżnienie od teoretyk narracja niezależny od medium przedstawienie, taki jak między innymi. 
+Tzvetan Todorov, Gérard Genette, Algirdas Julien Greimas, Christian Metz i Gerald Prince (zobacz. 
+G. Frasca Ludolodzy też kochać opowiadanie – notatka na temat spór, który nigdy nie mieć miejsce, przeł. 
+M. Filiciak, W: świat z piksel. 
+antologia studia nad gra komputerowy, redakcja. 
+M. Filiciak, wydawnictwo SWPW Academica, Warszawa 2010, strona. 78-1989). 
+warto przy to zauważyć, że rzadko zdarzać się w ten spór teoretyk sam nazywać się afirmatywnie i bez zastrzeżenie „narratologami”. 5 J. Murray od gra-opowiadanie do cyberdramy, przeł. 
+M. Filiciak, W: świat z piksel, strona. 64. 6 tamże, strona. 63-64. 7 E. Aarseth genre Trouble. 
+Narrativism and the artykuł of Simulation, cytat. za: J. Dovey, H.W. Kennedy kultura gra komputerowy. 8 J. Dovey, H. Kennedy, kultura gra komputerowy, strona. 7. 9 tamże. 10 J. Murray Hamlet on the Holodeck. 
+The Future of Narrative in Cyberspace, cytat. za: tamże. 11 G. Frasca Ludolodzy też kochać opowiadanie – notatka na temat spór, który nigdy nie mieć miejsce, strona. 78-89. 12 J. Dovey, H.W. Kennedy kultura gra komputerowy, strona. 111. 13 J. Murray Hamlet on the Holodeck. 
+the Future of Narrative in Cyberspace, free Press, New York 1997, strona. 71, tłum. własny, 14 I. Bogost Persuasive Games. 
+the Expressive Power of Videogames, MIT Press, Cambridge–London 2007, strona. 4, tłum. własny. 15 tamże, strona. 5. 16 tamże, strona. 9. 17 tamże, strona. ix. 18 tamże, strona. 29. 
+w szeroki znaczenie – również o klasyczny rodowód – można uznać retoryka jako „zbiór instrukcja służyć umiejętny wysławiać się” (H. Lausberg retoryka literacki. 
+podstawa wiedza o literatura, przeł. 
+A. Gorzkowski, Homini, Bydgoszcz 2002, strona. 40). 19 tamże. 20 tamże, strona. ix 21tamże. 22 M. White Ideological Analysis and Television, tłum. własny, w: Channels of Discourse, Reassembled. 
+Television and ContemporaryCcriticism, editor. 
+R.Celsjusza. Allen, University of North Carolina Press, London 1992. 23 jak ujmować to Ian Bogost: „znaczenie w gra wideo być konstruować nie poprzez odtworzyć świat, ale poprzez selektywny modelować odpowiedni element ten świat” (I. Bogost Persuasive Games, strona. 46). 24 tamże. 25 „wymiar ciało Lara Croft, przeanalizować już do znudzić przez teoretyk film, być nieistotny dla ja jako gracz, ponieważ inaczej wyglądać ciało nie sprawićby, że graćbybyć inaczej. 
+kiedy grać, nie widzieć nawet on ciało, ale patrzeć przez on i poza nie” – E. Aarseth genre Trouble: Narrativism and the artykuł of Simulation, http://www.electronicbookreview.com/thread/firstperson/vigilant, tłum. własny, [dostęp: 20 czerwiec 2012]. 26tak być bez wątpienie w przypadek szeroko komentować gra artystyczny Dear Esther studio the chinese room z 2012 rok. 
+dominować tam eksploracyjny typ interakcja, a sam rozgrywka być dość ubogi i nie zostawiać gracz duży pole aktywność. 
+jednocześnie Dear Esther mieć niezwykle dopracować warstwa narracyjny i wizualny – opowiadać złożyć, wielowątkowy, pomieszać chronologicznie historia o śmierć, samotność i poszukiwać sens w doświadczenie graniczny. 
+literaturoznawca bez trud poradzićby siebie z interpretacja Dear Esther, ale wynikać to również z fakt, że gra mieć bardzo mało skomplikowany, linearny rozgrywka. 27 J.Z. Szeja gra fabularny. 
+nowy zjawisko kultura współczesny, Rabid, Kraków 2004, strona. 155. 28pod koniec rok 90. istotnie duży sukces odnosić gra z bardzo rozbudować fabuła (jak na przykład Planescape: Torment lub seria Baldur’strasznie Gate), jednak późno gracz i krytyk doceniać raczej postęp graficzny, nowy forma rozgrywka, adaptować gra na nowy platforma. 
+w 2012 rok miliard sprzedać egzemplarz osiągnąć seria gra na smartfon Angry Birds, który fabuła dawać się streścić w jeden zdanie. 29 dawny. Michael, strona. Chen Serious Games: Games that Educate, Train, and Inform, Thomson course Technology, boston 2006,strona. 21, tłum. własny. 30 dawny. Michael, strona. Chen Seriuos Games, strona. 23. 
+tendencja do odmawiać dzieło o wyraźny przekaz ideologiczny wartość estetyczny lub rozrywkowy być częsty, ale można on też – w duch marksistowski – odczytywać jako taktyka neutralizacja niepożądany treść ideologiczny. 31 tamże. 32 ten ostatni kategoria w ten podział być bardzo problematyczny: wspólny mianownik ten gra według autor książka być – w odróżnienie od przekaz wiedza i przekaz umiejętność – przekaz pogląd (attitudes) (tamże, strona. 202). 
+kategoria wydzielić przez Michael i Chena nie być zresztą całkiem rozłączny. 
+wziąć przykład gra o zastosowanie militarny: szkoleniowy symulator lot, choć być mieć na cel nauczyć odbiorca-gracz określić działanie i procedura, raczej nie być przekonywać do przyjąć jakiś stanowisko ideologiczny. 
+inaczej być w przypadek sponsorować przez armia Stany Zjednoczony gra America’strasznie Army, który oprócz walor rozrywkowy być narzędzie rekrutacyjny i w ciąg rozgrywka przedstawiać armia amerykański i on etos w jak dobry światło. 
+wątpliwość budzić też zakwalifikować przez Michael i Chen gra artystyczny (Art games) do nurt serious games. 33 T. Majkowski złoty runo. 
+grać wideo jako doświadczenie interpretacyjny, W: olbrzym w cień. 
+gra wideo w kultura audiowizualny, redakcja. 
+A. Pitrus, wydawnictwo UJ, Kraków 2012, strona. 187. 34 Majkowski pisać też, że „mechanizm natychmiastowy weryfikacja interpretacja być […] wpisać w zasada interaktywność, bez który gra byćby niemożliwy. […] nic w potoczny rozmowa gracz mieć zawsze okazja dopytać gra, czy dobrze zrozumieć on intencja” (tamże, strona. 188). 
+badacz pomijać to sam gra, który właśnie z odroczyć konsekwencja działanie gracz czynić istotny zabieg artystyczny, jak na przykład. seria wiedźmin studio CD Projekt redaktor. 35 jak czytać na oficjalny strona internetowy gra: „Fate of the World być strategiczny gra na PC, który symulować prawdziwy społeczny i środowiskowy skutek globalny zmiana klimat przez następny 200 rok. 
+nauka, polityka, zniszczenie – wszystko tu być prawdziwy i przerażający”. 
+jako „kluczowy cecha” twórca gra wymieniać „prawdziwy nauka”, „prawdziwy skutek” i „prawdziwy rozwiązanie” (http://fateoftheworld.net/about, dostęp: 20.06.2012). 36 ten typ wątek być dość popularny zabawa na for poświęcić grom, nie tylko serious games; zwykle w zabawny sposób pokazywać on konwencja i założenie świat gra. 37 I. Bogost Persuasive Games, strona. 85. 38 strona. Lee “i Lose, Therefore i Think”. 
+a Search for Contemplation amid wars of Push-Button Glare, „game Studies” vol. 3 issue 2, December 2003, tłum. własny, http://www.gamestudies.org/0302/lee/ [dostęp: 02.06.2012]. 39 J. McGonigal Reality IS Broken. 
+Why Games Make Us Better and how They Can Change the World, Penguin Press, New York 2011, tłum. własny, strona. 66-67. 40 tamże. 41 co ciekawy, w Fate of the World nie zdarzać się awaria elektrownia atomowy, który być przecież jeden z często przywoływać przez przeciwnik energia jądrowy argument. 
+być móc brak ten element wynikać z to, że gra zostać wydać jeszcze przed katastrofa w elektrownia atomowy w Fukushimie w marzec 2011 rok. 42 „Cards”, serwis „Fate of the World wiki”, http://fateoftheworld.wikia.com/wiki/Cards, tłum. własny, dostęp: 07.06.2012.Przypominam, że wewnątrz gra gracz mieć do dyspozycja tylko opis karta, konkretny, wymierny działanie poszczególny karta być ukryć. 43 J. Raessens Serious games from Andrzej apparatus perspective, W: Digital Material. 
+Tracing New medium in Everyday life and Technology, editor. 
+M. van den Boomen et aleja., Amsterdam University Press, Amsterdam 2009, strona. 21-34. 44 strona. Žižek The Interpassive Subject, http://www.egs.edu/faculty/slavoj-zizek/articles/the-interpassive-subject/, tłum. własny, dostęp: 12.06.2012. 45 S. Žižek Cyberspace, or, how to Traverse the fantasy in the Age of the Retreat of the Big Other, ”Public Culture” 10(3) 1998, tłum. własny, strona. 484. 46 J. Raessens Serious games from Andrzej apparatus perspective, tłum. własny, strona. 28. 47 strona. Žižek IS Ita possible to traverse fantasy in cyberspace?, cytat. za: J. Raessens Serious games from Andrzej apparatus perspective, tłum. własny, strona. 24. 48 J. Raessens Serious games from Andrzej apparatus perspective, strona. 24. --------------­ 
+------------------------------------------------------------ 
+--------------- 
+------------------------------------------------------------ 
+jeden 

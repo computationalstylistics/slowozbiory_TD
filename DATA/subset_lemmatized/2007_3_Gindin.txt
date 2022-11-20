@@ -1,0 +1,90 @@
+Siergiej Gindin 
+Hipertekstualny system filologiczny – twórczość Walerija Briusowa. 
+komunikat wstępnyjeden 
+w 1997 rok z inicjatywa J.A. Iwanowej w katedra lingwistyka teoretyczny i stosować (obecnie katedra lingwistyka teoretyczny w instytut lingwistyka) RGGU (Rossijskij Gosudarstwiennyj Gumanitarnyj Uniwiersitet) rozpocząć praca nad stworzyć informatyczny system filologiczny. 
+początkowo prowadzić on być na tekst Nikołaj Leskowa. 
+w rok 1998-1999 pracownik katedra pod kierunek dawny.G. Łachuti brać udział w praca program „Puszkin”, wnosić olbrzymi wkład w przygotować i wydać elektroniczny puszkinowski zespół tekst w Fiedieralnoj Elektronnoj Bibliotiekie. 
+stopniowo w instytut lingwistyka RGGU powstać się zespół badawczy zajmować się teoria tekst. 
+zespół ten obejmować wykładowca, pracownik i student dwa katedra: instytut-katedra lingwistyka teoretyczny oraz katedra matematyka, logika i system intelektualny. 
+w rok 2000–2002 dzięki wsparcie RFFN zespół ten opracować pierwszy część hipertekstowy, filologiczny system autorski dla twórczość Walerija Briusowa – w skrót GAFSI „Briusow”. 
+kierownik naukowy projekt być autor ten komunikat, który wspólnie z J.A. Iwanową skonstruować ogólny struktura funkcjonalny system. 
+za wprowadzić w życie system od strona informatyczny odpowiadać O.M. Anszakow, on też (przy współpraca E.W. Sieriebriakowej i M.O. Garder) wykonać większość praca z ten zakres. 
+J.A. Iwanow koordynować praca liczny współpracownik (wszystek nazwisko znajdować się obecnie na strona GAFIS „Briusow” w Internet pod adres HTTP:/www.artint.ru/cfrl). 
+chcieć tu przedstawić wstępny charakterystyka zadanie, zasada funkcjonowanie i budowa system. 
+1. 
+co być filologiczny system informacyjny (FSI)? 
+system nasz nazywać filologiczny nie dlatego, że obejmować dzieło pisarz (równie dobrze mócby obejmować spuścizna uczony lub publicysta). 
+filologiczność system określać tu nie tyle zakres przedmiotowy, co szczególny typ informacja przechowywać i udzielać przez system oraz – rzecz ważny – szczególny charakter zastosować ten informacja. 
+o ile inny nauka dążyć do to, by w każdy tekst znajdować tylko ten informacja, który odnosić się do interesujący on problematyka, o tyle dla filologia każdy tekst „istnieć jako pierwotnie zadany całość”2. 
+dodać – także jako całość informacyjny. 
+dlatego rdzeń filologiczny system informacyjny (FSI) być zespół realnie istnieć tekst, wprowadzić w całość. 
+każdy z on móc być udostępnić do lektura lub do badanie właśnie jako całość. 
+równocześnie, w odróżnienie od znajdować się w Internet inny zespół tekstowy, w FSI mieć zostać umieścić tekst skazić, bez błąd powstały z przechowywać i translacja. 
+zadanie FSI być zatem także ustalić kanoniczny postać tekst. 
+w czas, który mijać między powstać tekst a on recepcja, zmieniać się język, wiedza o świat, otaczać rzeczywistość, co móc znacznie utrudnić, a nawet wypaczyć rozumieć tekst3. 
+FSI powinien pomóc w pokonać ten problem. 
+dlatego też w skład FSI wchodzić zbiór informacja ułatwiać zrozumienie i przyswoić podstawowy zespół tekst. 
+zbiór wspomagać być dwojaki rodzaj. 
+do pokonać przewidywalny komunikacyjny trudność każdy tekst zespół podstawowy być wyposażyć w FSI w tak zwać „objaśnienie filologiczny” – komentarz, przekład albo zapis dźwiękowy – wyjaśniać cały tekst lub on trudny fragment. 
+ponadto, w przypadek jakiś indywidualny, nieprzewidziany problem istnieć możliwość skorzystać z „narzędzie warsztat filologiczny” – słownik, konkordancja, bibliografia, informator, zbiór ikonografia i ten podobny zespół informacyjny. 
+w odróżnienie od objaśnienie, narzędzie tworzyć się nie dla oddzielny tekst korpus, a dla cały zespół FSI. 
+2. 
+dlaczego autorski FSI stworzyć na materiał spuścizna Briusowa? 
+istnieć trzy zasadniczy typ bazowy korpus tekst, dla który warto tworzyć FSI: 1) odrębny tekst duży objętość, posiadać szczególny znaczenie; 2) cały twórczość jeden autor; 3) kolekcja tekst, posiadać cecha wspólny z wzgląd na: temat, gatunek, epoka i tym podobne.4. 
+FSI z korpus bazowy drugi typ być nazywać „autorski”. 
+z doświadczenie tradycyjny filologia wynikać, że właśnie taki korpus cieszyć się duży zainteresowanie czytelnik. 
+ponieważ nawet badać proces komunikacja nie móc pominąć fenomen autorstwo, kwestia osobowy początek w proces komunikacja, należeć stworzyć autorski FSI tym bardzo, że umiejscowić on między pozostały zbiór pozwolić postawić i rozwiązać wiele problem filologiczny, charakterystyczny także dla „monotekstowych” i „kolekcyjnych” FSI. 
+jako obszar przedmiotowy wybrać spuścizna Walerija Briusowa, który znaczenie dla rosyjski literatura i kultura być olbrzymi. 
+brak przy to w miara pełny wydanie książkowy on spuścizna, a jedyny edycja dzieło zebrać ukazać się blisko 40 rok temu. 
+zespół zwrócić się więc ku twórczość Briusowa, mieć na wzgląd ciągłość tradycja i wartość artystyczny. 
+być jednak i inny motyw nasz wybór, czysto filologiczny i systemowo-informacyjny: – Briusow zajmować się nie tylko literatura, lecz także nauka i publicystyka; być organizator-praktyk. 
+dlatego GAFSI na materiał on twórczość ujmować rozmaity sfera aktywność językowy i różnorodny styl funkcjonalny język rosyjski. – spuścizna literacki Briusowa być wyjątkowy z punkt widzenie rodzaj (wiersz, proza, dramat) i gatunek mowa. – niesłychanie różnorodny być struktura znaczeniowy, kompozycyjny i graficzny tekst Briusowa, który ponadto połączyć być skomplikowany, wielopoziomowy i wieloaspektowy jednostka ponadtekstowymi. – Briusow wielokrotnie przerabiać swój utwór, tekstologiczny dynamika on zmiana odpowiadać dynamika przekształcenie ponadtekstowych. 
+omówić wysoko okoliczność zadecydować o to, że właśnie spuścizna Briusowa okazać się znakomity materiał dla sformułować i rozpracować ogólny problem informatyczny i hipertekstowy FSI, poczynać od dokładny przekształcić tekst w postać cyfrowy, a kończyć na organizacja FSI jako całość. 
+dlatego też zasada, konstrukcja, technologia i działać GAFSI „Briusow” móc być interesujący dla wszyscy, który zajmować się filologia informatyczny. 
+3. 
+dla jaki użytkownik przeznaczyć być GAFSI „Briusow” i w jaki cel powstać? 
+użytkownik GAFSI „Briusow” móc być czytelnik, uczeń i student, badacz życie i twórczość Briusowa, język rosyjski, literatura, kultura koniec XIX i pierwszy trzy dziesięciolecie XX wiek., teoretyk, wykładowca filologia, tekstologia, hermeneutyka, wreszcie – wszystek ten, który pracować nad informatyczny system komputerowy. 
+każdy z ten kategoria użytkownik system zapewniać inny możliwość. 
+zasadniczy cel system „GAFSI” to: – w miara całkowity i niezawodny obraz spuścizna Briusowa w forma hipertekstowy i zapewnić dostęp do on czytelnik i badacz; – zbierać i gromadzić różnorodny informacja, konieczny dla właściwy rozumieć utwór Briusowa oraz przedstawiać ten informacja w postać pozwalać korzystać z on w trakt czytać ów utwór; – stworzenie lingwistyczny i filologiczny instrumentarium, pozwalać czytelnik i badacz na samodzielny pobierać niezbędny informacja dodatkowy o utwór Briusowa, on kontekst literacki, biograficzny, historyczny i językowy; – stworzyć dogodny warunek wymiana informacja dla badacz oraz do pozyskiwać nowy dana dotyczyć życie i twórczość Briusowa; – stopniowy wzbogacać dostępny czytelnik i z punkt widzenie tekstologia uzasadniony, elektroniczny korpus utwór Briusowa, stopniowo zbliżać się do wzorzec akademicki; – kształtować laboratorium dla badanie w zakres teoria i typologia tekst, filologia teoretyczny, metodologia i technologia opracować informatyczny system filologiczny. 
+4. 
+niektóry zasada leżeć u podstawa system? 
+wśród ważny zasada, leżeć u podstawa idea system, należeć wyróżnić i przyjrzeć się blisko cztery: dziedziczenie poświadczyć tekst, edycyjny relewancja, opierać się na źródło podstawowy, pełny wizualizacja. 
+zasada dziedziczenie oznaczać, że GAFSI „Briusow” nie powstawać „od zero”, a z uwzględnić osiągnięcie briusowskiej tekstologia w „tradycyjny” wydanie książkowy. 
+zasadzać edycyjny relewancja polegać na to, że tekst wprowadzać do system traktować być nie jako byt abstrakcyjny, ale jako istnieć w określony pozycja w konkretny wydanie (i/lub – w docelowy system – autograf i wykaz). 
+przy wprowadzać do GAFSI tekst z jakiś tradycyjny źródło zawsze zachowywać się on adres, co też pozwalać, podczas korzystać z system, na pozostawiać w stan nienaruszony cały aparat przypis. 
+z dwa wymienić zasada wynikać zasada opierać się na źródło podstawowy, to znaczyć na pełny i solidny wydanie, na podstawa który tworzyć się główny podstawa tekstowy system. 
+w koniec zasada pełny wizualizacja wydanie źródłowy pozwalać dobrze przedstawić w GAFSI widoczny struktura tekst5 i wykładnik względny znaczenie on fragment. 
+5. 
+ogólny struktura system zgodnie z to, co w punkt 1 powiedzieć o system filologiczny w ogólność, w GAFSI „Briusow” można wyróżnić trzy ważny składnik: 
+I. twórczy spuścizna Briusowa (korpus tekst). 
+II. 
+objaśnienie filologiczny do dzieło Briusowa. 
+III. 
+aparat lingwistyczny i filologiczny. 
+spuścizna pisarz w GAFSI być zhierarchizować strukturalnie. 
+struktura przedstawić być w dwa paralelny wersja, z który każdy posiadać swój systemowy drzewko. 
+zgodnie z zasada edycyjny relewancja, pierwszy wersja opierać się na wykorzystać wydanie utwór Briusowa. 
+drugi wersja tworzyć system struktura wewnętrzny bez odniesienie do wydanie. 
+drzewo ten przedstawiać wykaz rodzaj i styl w twórczość Briusowa i odsyłać do poszczególny tekst. 
+6. 
+co znajdować się w pierwszy wersja system i jaki być perspektywa on rozwój? 
+cel wyznaczyć w punkt 3. móc zostać osiągnąć w pełnia tylko w proces długi rozwój system. 
+obecnie (styczeń-luty 2003) pierwszy wersja GAFSI zawierać następujący element: – korpus tekst składać się z wszystek tekst dzieło zebrany6. 
+zespół opracowywać włączyć do drzewko ten wydanie informacja o ingerencja cenzura w książka Briusowa w ten edycja. 
+odnotować także przypadek, gdy utwór umieścić przez Briusowa w dwa różny książka zostać z jeden z on usunąć, co nie zaznaczyć ani nie uzasadnić. – objaśnienie filologiczny utwór Briusowa to w ten chwila cały aparat krytyczny wspomnieć siedmiotomowej edycja oraz zestaw multimedialny, zawierać ikonografia i zapis dźwiękowy recytacja wiersz przez sam poeta oraz przez aktor (koniec rok 70.). 
+tu też znajdować się fotokopia rzadki z wydać za życie pozycja – trzy tom almanach7 (Russkije simwolisty 1984-1895). – lingwistyczny i filologiczny instrumentarium tymczasem składać się z wstęp do siedmiotomowego wydanie (1973-1975), szkic poświęcić droga twórczy Briusowa8, napisać w ramy ten projekt i słownik-konkordancja do poemat Egipietskije noczi (egipski noc). 
+zespół pracować nad system przygotować już wiele elektroniczny korpus uzupełniający I i III składnik. 
+nasz pilny zadanie być on przekład na hipertekst i włączyć do system. 
+przełożyć Piotr Mitzner 
+1 tekst ukazać się w: „Moskowskij Lingwisticzieskij Żurnał” 2003 numer 2. 
+2 G. Winokur Wwiedienije w izuczienije fiłołogiczieskich nauka, Moskwa 2000, strona. 59. 3 porucznik. 
+B. Tomaszewskij Pisatiel’ i kniga, Moskwa 1958, D. Lichaczow Tiekstołogja, Leningrad 1983, rozdział. 1. 4 porucznik. 
+S. Gindin wstęp do: Maszinnyj fond russkowo jazyka. 
+Idiei i sużdienija, Moskwa 1986, strona. 176-177. 
+5 strona. Gindin Pozicjonnyje mietody awtomaticzieskowo fragmientirowanija tieksta, on tieorieticzno-tiekstowyje i psicholingwisticzieskije priedposyłki, „Siemiotika i informatika” 1978 wyp. 10. 6 wiek. Briusow Cobranije soczinienij, tom. 1-7, Moskwa 1973-1975. 
+7 Russkije simwolisty, Moskwa 1984-1895. 8 S. Gindin Walerij Briusow, W: Russkaja litieratura rubieża wiekow (1890-e – naczało 1920 godow), tom. 2. 
+Moskwa 2001. 
+--------------- 
+------------------------------------------------------------ 
+--------------- 
+------------------------------------------------------------ 

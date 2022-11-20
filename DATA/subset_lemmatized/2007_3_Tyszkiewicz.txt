@@ -1,0 +1,67 @@
+Martyna Barczuk, Jerzy Tyszkiewicz 
+magik – nowoczesny narzędzie dla badacz literatura 
+w ten artykuł przedstawiać program wymyślić i napisać przez my z myśl o wykorzystać przez środowisko badacz literatura, a zwłaszcza osoba zajmować się tekstologia i edytorstwo naukowy. 
+być to rodzaj specyficzny edytor tekst. 
+on podstawowy funkcja nie być pisać i formatować, ale porównywać tekst napisać w inny edytor. 
+tworzyćbyć on z pomoc profesor. 
+Maria Prussak i Maria Kozyra, który być pierwszy użytkowniczka magik. 
+mieć nadzieja, że wypróbować on i uznać za pożyteczny także inny badacz. 
+w ten krótki nota chcieć przybliżyć czytelnik podstawowy zasada działanie magik. 
+nie być to instrukcja, jak należeć z on pracować: nie tłumaczyć, gdzie należeć kliknąć, żeby uzyskać jakiś konkretny efekt. 
+w istota program nadal jeszcze zmieniać się pod wpływ uwaga osoba, który on używać, i nasz własny obserwacja. 
+pisać o on dzisiejszy wersja, utrudnićbybyć siebie on ulepszać, bo zawsze zastanawiaćbybyć się, czy jakiś udogodnienie być na tyle istotny, żeby on wprowadzić móc zrównoważyć niezgodność zachować program z opublikować już opis. 
+nasz zamiar być jedynie opis mechanizm działać program, który na pewno się nie zmienić, a wyjaśniać wiele on cecha. 
+zacząć od to, co nasz program robić. 
+on podstawowy i prawie jedyny funkcja być wykrywać podobieństwo pomiędzy dwa tekst. 
+tytuł przykład, niech pierwszy tekst być cytat: „hej, odłóg leżeć nasz rola, // choć być ziarno, nie mieć ręka do siać” z wiersz Jan Kasprowicz (poezja 1888), a drugi – on odmiana „hej, odłóg leżeć nasz rola, // choć być ziarno, mało ręka do siać”, opublikować w „dziennik poznański” w 1886 rok1. 
+umieścić oba fragment jeden pod drugi, ustawiać pod siebie kolejny jednostka tekst (za jednostka uważać: słowo, znak przestankowy i odstęp rozdzielać on od siebie): 
+hej, odłóg leżeć nasz rola, choć być ziarno, nie mieć ręka do siać, hej, odłóg leżeć nasz rola, choć być ziarno, mało ręka do siać. 
+zauważać 23 para jednostka zgodny z siebie w oba wersja: 8 para słowo, 3 para przecinek i 12 zgodny para odstęp rozdzielać słowo, ponadto 5 para jednostka niezgodny (w to jeden, w który słowo „siać” być połączyć w para z kropka) i jeden brak para dla przecinek na koniec. 
+oczywiście, narzucać się sposób, jak można to zrobić dobrze, wprowadzać do drugi tekst specjalny „pusty słowo” oznaczony „–„.wtedy móc otrzymać porównanie 
+hej, odłóg leżeć nasz rola, choć być ziarno, nie mieć ręka do siać, hej, odłóg leżeć nasz rola, choć być ziarno, mało – ręka do siać. 
+ten raz znajdować 26 para jednostka zgodny z siebie w oba wersja: 11 złożyć z słowo, 3 z znak przestankowy i 12 z odstęp. 
+mieć też 2 par niezgodny i jeden para zawierać pusty słowo. 
+nasz program wszystek możliwy porównanie ten postać przypisywać liczba punkt, który być wynik zsumować punkt przyznawać za każdy parę jednostka oraz odjęcie punkt ujemny za każdy para niezgodny, każdy brak para lub użyć pusty słowo. 
+wartość punktowy pojedynczy para każdy z ten rodzaj zostać przez my dobrać na podstawa eksperyment i być niezmienny. 
+żeby wytłumaczyć działanie magik umówić się, że za zgodny para dama po 5 punkt, za niezgodny minus 3 punkt, zaś za użyć pusty słowo lub brak para minus 5 punkt (prawdziwy wartość stosować w program być ułamek i utrudnićby niepotrzebnie rachunki). 
+w ten sytuacja pierwszy porównanie dajepunktów, podczas gdy drugiepunktów. 
+drugi porównanie okazywać się zatem dobry, oczywiście zgodnie z nasz odczucie. 
+mechanizm działanie stosować przez my algorytm sprowadzać się do czysto mechaniczny wyszukać taki porównanie, który dawać wysoki możliwy liczba punkt. 
+w rzeczywistość program nie rozpatrywać wszystek możliwy porównanie, bo być on dosłownie nieskończenie wiele: dla tekst o długość już od około 150 jednostka więcej niż atom w obserwowalny część wszechświat. 
+mimo ten porównanie, który mieć wysoki z wszyscy punktacja, zostawać na pewno znaleźć. 
+następnie na ekran program wskazywać w ten właśnie porównanie (poprzez odpowiedni pokolorować; poniżej użyćbyć podkreślenie i podkreślenie na szary tło do reprezentować dwa różny kolor w czarny-biały druk) fragment tekst drugi, który brak w tekst pierwszy. 
+pusty słowo być reprezentować przez oznaczenie [–]. 
+w nasz przykład wyglądałoby to tak: 
+hej, odłóg leżeć nasz rola, choć być ziarno, nie mieć ręka do siać, hej, odłóg leżeć nasz rola, choć być ziarno, mało [–] ręka do siać. 
+nasz program umożliwiać badać wiele wersja ten sam tekst, przy co być on porównywać do siebie kolejno: pierwszy z drugi, drugi z trzeci i tak dalej. 
+w ten sposób, przy odpowiedni dobór kolejność wersja, w każdy z on widzieć zaznaczyć ten fragment, który po raz pierwszy pojawiać się właśnie w on. 
+kolor z wersja poprzedni zostawać zachować, dzięki co w ostatni wersja móc śledzić cały ewolucja tekst. 
+widać to na przykład krótki fragment oda do młodość Adam Mickiewicz, wers 21, kolejno w wersja: „kopia Chełmicki”, „autografia” i tekst jednolity2 
+sam się żagiel, sternik, okręt, sam siebie stérem, żeglarz, okręt, sam siebie stérem, żeglarz, okręt; 
+przy ten kolejność porównywać tekst, podkreślić fragment to ten, który pojawiać się w drugi wersja, a podkreślić średnik na szary tło po raz pierwszy zastępować przecinek w wersja trzeci. 
+być to w istota rzecz uzyskać automatycznie kolacjonować3. 
+utworzyć za pomoc magik porównać tekst móc zostać w on opatrzyć przypis i zachować w taki postać na dysk. 
+w zasada umożliwiać to stworzyć elektroniczny wersja pełny, krytyczny edycja dzieło, z podać wszystek on wersja in extenso i wskazać wszelki, nawet drobny różnica pomiędzy on. 
+wobec znany trudność z druk obszerny, krytyczny wydanie literatura piękny, pewien rozwiązanie móc być druk tylko tekst jednolity, z przenieść cały aparat krytyczny do dołączać do książka na płyta wersja elektroniczny, tworzyć za pomoc magik i przeznaczyć do odczytywać za on pomoc. 
+z myśl o taki wykorzystać nasz program być on rozprowadzać na zasada licencja gnu General Public Licence (GPL). 
+oznaczać to być przekazać użytkownik prawo do uruchamiać program w dowolny cel, analizować sposób on działać i dostosowywać on do swój potrzeba, kopiować oraz udoskonalać, a także publikować własny poprawka i on kod źródłowy. 
+uboczny efekt mechanizm działanie nasz program być to, że można on też użyć w zupełnie inny, niespodziewany sposób: do wyszukiwać w długi tekst cytat, który brzmienie dokładnie nie pamiętać. 
+wystarczyć w ten cel porównać z siebie zapisać w plik cytata z treść cały dzieło. 
+po przedstawić zaleta magik, wypadać wspomnieć o on ograniczenie. 
+jak łatwo się domyślić, nawet niewielki zmiana w jeden z porównywać fragment móc spowodować istotny zmiana w wynik działać program. 
+Gdybyśmy zrobić literówka w wiersz Kasprowicz, wstawiać spacja do wnętrze słowo „mało”, nowy dobry porównanie byćby taki 
+hej, odłóg leżeć nasz rola, choć być ziarno, nie mieć – ręka do siać, hej, odłóg leżeć nasz rola, choć być ziarno, [–] mieć ło ręka do siać. 
+stąd nasz decyzja, żeby bardzo ograniczyć możliwość edycja tekst w magik, bo każdy on zmiana powodować, że dotychczasowy porównanie przestawać być wiarygodny i w zasada wymagać ponowny przeprowadzić cały czasochłonny obliczenie. 
+zresztą Word czy OpenOffice dawać tak wielki możliwość edycyjny, że nie miećby sens próba on naśladować. 
+postanowićbyć, że z wyjątek niezbędny sytuacja do edycja używać się inny program, a magik służyć tylko do porównywać. 
+każdy użytkownik nasz program zauważyć, że wyliczać porównanie długi tekst być czasochłonny. 
+istotny informacja być to, że nakład praca wykonywać przez komputer przy obliczać dobry porównanie być w przybliżenie proporcjonalny do iloczyn długość oba tekst. 
+oznaczać to, że dobry model ten ilość praca być pole prostokąt o bok równy co do długość odpowiednio liczba słowo w oba tekst. 
+patrzeć na poniższy obrazek, bez trud zauważyć, że jeśli na przykład podwoić długość oba porównywać fragment, powinienbyć spodziewać się, że czas praca program wzrosnąć czterokrotnie, a przy potroić długość wzrost czas praca być dziewięciokrotny. 
+można ten reguła używać do szacować czas niezbędny do przeprowadzić cały porównanie za pomoc próba wykonywać na fragment. 
+na zakończenie ciekawostka: magik wykorzystywać do wyszukiwać dobry porównanie algorytm Hirschberga, który być adaptacja znane w informatyka algorytm obliczać tak zwać „odległość edycyjny”. 
+podobny modyfikacja być też algorytm wykorzystywać w biologia do badać stopień podobieństwo kod dno różny organizm. 
+tak więc badać Maria Kozyra nad geneza dramat Orfeusz Anna Świrszczyńska i badanie nad genom człowiek nie być wcale tak odległy od siebie, jak by się móc wydawać na pierwszy rzut oko. 1 przykład podać za: R. Loth podstawowy pojęcie i problem tekstologia i edytorstwo naukowy, wydawnictwo IBL PAN, Warszawa 2006, strona. 137. 2 A. Mickiewicz dzieło wszystek, tom. 1: wiersz, Ossolineum, Wrocław 1971, strona. 283. 3 R. Loth,podstawowy pojęcie…, strona. 1989-1991 i ilustracja przed S. 89. --------------- 
+------------------------------------------------------------ 
+--------------- 
+------------------------------------------------------------ 

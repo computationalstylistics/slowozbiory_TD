@@ -1,0 +1,64 @@
+Maria Kozyra problem zapis i interpretacja wiele wersja tekst na przykład Orfeusz Anna Świrszczyńska 
+dlaczego Orfeusz? 
+niektóry badacz literatura (na przykład C. Rowiński1) twierdzić, że Orfeusz wyrosnąć z doświadczenie wojenny. 
+zostać napisać na konkurs konspiracyjny, a walka Orfeusz z śmierć odzwierciedlać los pokolenie Kolumb. 
+inny, posługiwać się argument, że koncepcja dramat Świrszczyńska – chodzić o słuchowisko radiowy śmierć Orfeusz – zrodzić się przed wojna, wykluczać taki interpretacja. 
+kto mieć racja? 
+warto sprawdzić, jak duży fragment śmierć Orfeusz wejść do wersja okupacyjny, a następnie do wydanie książkowy. 
+aby badanie być dokładny, należeć zgromadzić wszystek tekst o Orfeusz, który napisać zostać przed pierwszy wydać, czyli między 1938 a 1947 rok. 
+okazywać się, że w wymienić okres powstać 3 utwór pod tytułem. 
+śmierć Orfeusz oraz 9 tekst zatytułować Orfeusz. 
+tak więc publikacja ostateczny wersja zasadniczo jeden dzieło poprzedzać obszerny dorobek literacki na ten sam temat. 
+pisać „zasadniczo”, ponieważ wszystek utwór opierać się na jeden pomysł, który zrodzić się z zainteresowanie Świrszczyńska religia dionizyjski. 
+jeśli przyjrzeć się on blisko, dostrzec można, że śmierć Orfeusz i sam Orfeusz to dwa odrębny dramat, który różny tytuł i obszerny partia tekst, a łącze tylko (albo aż) – wątek Orfeusz, próbować uleczyć menada i pragnący wyprowadzić z hades Eurydyka. 
+również tekst zatytułować Orfeusz nie być identyczny. 
+pojawiać się problem daleko iść zmiana między wersja okupacyjny a scenariusz teatralny, między scenariusz teatralny a pierwszy wydanie. 
+poza to występować różnica między kolejny wydanie. 
+jeśli uważać za tekst kanoniczny wydanie ostatni, to być on niezgodny z ten utwór, który tuż po wojna odnieść teatralny sukces. 
+może zatem warto jako podstawa wydać wybrać właśnie ten wersja. 
+zasada zestawienie kolejny wersja jak można, w sposób wyrazisty i bez uszczerbek dla spójność utwór, pokazać zmiana zachodzić w tekst i ułatwić on interpretacja? 
+tradycyjny metoda prezentować odmiana nie ujmować dzieło w sposób całościowy, skupiać się tylko na fragment, w który występować różnica, oraz pomijać zmiana interpunkcyjny. 
+dla zilustrować ewolucja utwór Orfeusz posłużyłam się niekonwencjonalny, prawdopodobnie nowatorski metoda. 
+wszystek wersja Orfeusz zostać umieścić w tabela, każdy tekst w osobny kolumna. 
+poszczególny egzemplarz tekst oznaczyćbyć inny kolor, na przykład: 
+[okupacyjny] – Świrszczyńska A., Orfeusz – maszynopis powstały w rok okupacja → brak wyróżnienie (kolor) [1947] – Świrszczyńska A., Orfeusz, wydawnictwo E. Kuthan, Warszawa-Kraków 1947 → kolor szary i tak dalej. 
+jeśli tekst przetrwać w zmienić postać od wersja pierwotny aż do ostatni, to przy zestawić nie zastosowaćbyć barwa – pole biały. 
+jeśli natomiast zmiana pojawić się w następny redakcja, to jest. w pierwszy wydanie z 1947 rok, to pole tekstowy zostać oznaczyć kolor szary i barwa ten przetrwać w kolejny odmiana dopóty, dopóki w następny redakcja nie zostać wprowadzić kolejny zmiana i w związek z to inny kolor. 
+tak więc mały różnica w kolejny tekst powodować pojawić się nowy barwa. 
+zestawienie taki pozwalać czytelnik zapoznać się z tekst cały utwór, a jednocześnie pokazywać, jak ewoluować koncepcja pierwotny pomysł. 
+pozwalać śledzić zmiana nie tylko na poziom wyraz, ale również interpunkcja. 
+program do kolacjonować do realizacja opisać powyżej pomysł powstawać program komputerowy pisać przez Martyna Barczuk2. 
+zestawiać on wybrany tekst, wyszukiwać w on podobieństwo i różnica. 
+umożliwiać użytkownik wczytać w dowolny kolejność dowolny liczba tekst, który zostawać przetworzyć i układać się w kolumna w określony konfiguracja barwy. 
+każdy kolejny wersja porównywać być z wszyscy poprzedni, co oznaczać, że dobór liczba i kolejność tekst (móc być za każdy raz inny) wpływać na wynik (pojawić się nowy układ barwa). 
+tak więc program umożliwić dynamiczny lektura tekst bogaty niż tradycyjny statyczny zestawiać odmiana. 
+użytkownik być móc eksperymentować z tekst dzięki możliwość zadawać program różny pytanie (zostać opisać poniżej). 
+z wzgląd na możliwości techniczny pierwotny pomysł ulec rozwinąć. 
+tekst układać się w kolumna równolegle. 
+badacz łatwo móc obserwować on relewancja. 
+jeśli śledzić zmiana, napotkać na fragment, który nie występować na ten sam poziom, a jednak barwa sugerować, że mieć odpowiednik w inny wersja, móc zaznaczyć taki fragment i po wybrać odpowiedni opcja szybko on odszukać. 
+dodatkowo program pozwolić zobaczyć nie tylko, na co zmienić się tekst, ale również, co zostać zmienić. 
+po wybrać opcja „znaleźć” (dostępny po nacisnąć prawy klawisz mysz) wyróżnić zostać na przykład „święty palec” (wersja 2: 1947), jak również „boski palec” z wersja 1: okupacyjny. 
+wszelki ubytek w tekst – fragment, który zostać wykreślić w kolejny redakcja – być oznaczyć odpowiedni symbol, na przykład []. 
+poza to edytor móc wstawiać do tekst własny komentarz. 
+móc on dotyczyć chociażby skreślenie na rękopis. 
+komentarz być można ukrywać lub wyświetlać w zależność od potrzeba, to sam nie zostać zakłócić ciągłość tekst, a Czytelnik mieć możliwość śledzić cały proces tworzyć dzieło. 
+program ten ułatwić praca edytor wtedy, kiedy w trakt badanie zostać odnaleźć jeszcze jeden wersja utwór, który data powstać nie być znać (tak stać się w wypadek Orfeusz). 
+wczytywać plik tekstowy z odszukać utwór w różny kolejność do legenda i szybko niż za pomoc tradycyjny metoda kolacjonować na podstawa zmiana móc ocenić, kiedy dzieło powstać. 
+przy co wprowadzić wcześnie komentarz zostać zachować i być również możliwy on edytować. 
+opracować w ten program tekst zachowywać swój pierwotny forma zapis (kursywa, pogrubieć czcionka, podkreślić). 
+przy co nie zostawać on uwzględnić przez program przy wskazywać różnica, ponieważ zazwyczaj być tylko konwencja typograficzny i nie ogrywać istotny rola przy interpretacja utwór. 
+oprócz interaktywny praca z tekst możliwy być również publikacja uzyskać wynik w forma strona internetowy lub wydrukować tabela. 
+szeroki zastosować program czy taki program móc być pomocny tylko w praca edytor przy analiza zachodzić w tekst zmiana, zwłaszcza w przypadek obszerny proza? 
+uwzględniać współczesny realia, kiedy wiele wydawnictwo rezygnować, z wzgląd na koszt i mały zainteresowanie wśród czytelnik, z umieszczać w książka aparat krytyczny, warto się zastanowić nad pomysł dołączać do część nakład książka aparat krytyczny (w to na przykład zestawienie tekst w tabela) nagrać na płyta CD. 
+może w ten sposób ocalić się książka i nie zrazić masowy odbiorca. 
+interaktywność móc zachęcić czytelnik do sprawdzać, jak kształtować się ostateczny/kolejny postać tekst, co w przypadek ten program dawać obraz bardzo wyrazisty niż wymagać umiejętność rekonstruować tradycyjny zestawienie odmiana, który poza to zwykle nie uwzględniać interpunkcja. 
+tylko ten program pozwalać na zachować spójność kolejny wersja – na przykład można obejrzeć tylko jeden, bez kolor, albo porównać ja z drugi, wybrać. 
+przy tradycyjny zestawienie odmiana tekst być pokawałkować i trzeba wyobraźnia, żeby on odtworzyć. 
+projekt powstawać w ramy praca magisterski, który prowadzić: profesor. 
+Maria Prussak (UKSW) i profesor. 
+Jerzy Tyszkiewicz (UW). 
+1 C. Rowiński moda na mit grecki, „dialog” 1962 numer 9, strona. 116-127. 2 omówić ten program Czytelnik znaleźć w zamieścić w niniejszy numer tekst Martyna Barczuk i Jerzy Tyszkiewicz magik – nowoczesny narzędzie dla badacz literatura. --------------- 
+------------------------------------------------------------ 
+--------------- 
+------------------------------------------------------------ 
